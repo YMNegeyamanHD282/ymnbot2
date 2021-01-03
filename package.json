@@ -1,0 +1,14 @@
+{
+  "name": "ymnbot2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ymn.js",
+  "scripts": {
+    "test": "node ymn.js"
+  },
+  "author": "YMN 2",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
